@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name" translatable="false">Hotmeet</string>
+    <string name="file_chooser_title" translatable="false">choose file</string>
+    <string name="cannot_open_file_chooser_txt" translatable="false">Open file</string>
+    <string name="facebook_app_id" translatable="false">441761163494978</string>
+    <string name="try_again">Internal error\n\nPlease try again later</string>
+    <string name="score" translatable="false"><font size="64">%s</font>\nonline dater</string>
+
+</resources>
